@@ -1,4 +1,4 @@
-# Curated Design Resources
+# Curated Design Resources 🙇
 
 ## Table of Contents
 - [Interviews](#interviews)
