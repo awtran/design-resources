@@ -37,25 +37,25 @@ The hardest step of the interview process, but congrats you've made it thus far!
 
 ### Online courses
 A list of online courses that'll help you level up as a designer. Knowing code isn't always required but it definitely helps you understand technical constraints a bit better.
-    - [Designers.how](https://designers.how): video tutorials teaching you techniques in tools such as Sketch, Origami, and Swift.
-    - [Designcode.io](https://designcode.io): learn iOS 10 design and Xcode 8.
+- [Designers.how](https://designers.how): video tutorials teaching you techniques in tools such as Sketch, Origami, and Swift.
+- [Designcode.io](https://designcode.io): learn iOS 10 design and Xcode 8.
 
 ## Design Systems
 
 It's always important to have a layout system in place to keep your designs consistent, especially across different viewing platforms.
 
 ### Grids
-    - [8-pt Grid | Bryn Jackson](https://spec.fm/specifics/8-pt-grid): a dive into the way he constructs his workflow via an 8-pt grid system.
+- [8-pt Grid | Bryn Jackson](https://spec.fm/specifics/8-pt-grid): a dive into the way he constructs his workflow via an 8-pt grid system.
 
 ### Components
-    - [Atomic Design | Brad Frost](http://bradfrost.com/blog/post/atomic-web-design/): methodology for creating design systems; building blocks.
+- [Atomic Design | Brad Frost](http://bradfrost.com/blog/post/atomic-web-design/): methodology for creating design systems; building blocks.
 
 ### Color
-    - [Gradient Explorer - Brent Jackson](http://jxnblk.com/shade/)
+- [Gradient Explorer - Brent Jackson](http://jxnblk.com/shade/)
 
 ### Company-specific Design Systems
-    - [Material Design](https://material.io): Google's design system; includes guidelines, tools and resources.
-    - [The Harmony Design System](http://harmony.intuit.com): Intuit's design system; unites all Intuit's products across devices and ecosystem.
+- [Material Design](https://material.io): Google's design system; includes guidelines, tools and resources.
+- [The Harmony Design System](http://harmony.intuit.com): Intuit's design system; unites all Intuit's products across devices and ecosystem.
 
 ## Inspiration
 
