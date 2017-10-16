@@ -1,0 +1,90 @@
+{
+  "name": "awtran/design-resources",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "Sandbox",
+  "branch": "",
+  "style": {
+    "name": "Brutalist",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/BasicHeader",
+      "article": "article/MarkdownArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+    "heading": {},
+    "typeScale": [
+      48,
+      32,
+      20,
+      18,
+      16,
+      14,
+      12
+    ],
+    "layout": {
+      "maxWidth": 1024,
+      "fluid": true
+    },
+    "colors": {
+      "text": "#333",
+      "background": "#fff",
+      "primary": "#666",
+      "secondary": "#888",
+      "highlight": "#1f80ff",
+      "muted": "#f6f6f6",
+      "border": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/awtran/design-resources",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "design-resources",
+      "subhead": "A curated list of design resources, especially for those up-and-coming to the industry.",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "design-resources: A curated list of design resources, especially for those up-and-coming to the industry.",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "awtran",
+          "repo": "design-resources"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "\n\n<h2>Motivation and Goals</h2>\n<p>Realized I could have been adding to a centralized list of dedicated resources towards improving myself as a designer here, vs. messaging myself links repeatedly on Messenger and only looking back on half of them.\n<br><br>\nThis page is meant to provide anyone with a list of resources that <em>I&apos;ve</em> found to be helpful, ranging from articles to Sketch plugins I use to help improve my workflow. I&apos;m always open to feedback + suggestions, just let me know and I&apos;ll update the list if it&apos;s beneficial.</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/awtran/design-resources",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/awtran",
+          "text": "awtran"
+        }
+      ]
+    }
+  ]
+}
