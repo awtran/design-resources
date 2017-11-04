@@ -41,15 +41,6 @@
   },
   "content": [
     {
-      "component": "nav",
-      "links": [
-        {
-          "href": "https://github.com/awtran/design-resources",
-          "text": "GitHub"
-        }
-      ]
-    },
-    {
       "component": "header",
       "heading": "design-resources",
       "subhead": "A curated list of design resources, especially for those up-and-coming to the industry.",
@@ -64,7 +55,23 @@
           "user": "awtran",
           "repo": "design-resources"
         }
-      ]
+      ],
+      "links": [
+        {
+          "href": "asdf",
+          "text": "asdf"
+        },
+        {
+          "href": "asdf",
+          "text": "asdf"
+        },
+        {
+          "href": "asdf",
+          "text": "feeeeee"
+        }
+      ],
+      "slug": "asdfsadf",
+      "text": "asdfasdfsadfsadfasdf"
     },
     {
       "component": "article",
@@ -72,20 +79,6 @@
         "source": "github.readme"
       },
       "html": "\n\n<h2>Motivation and Goals</h2>\n<p>Realized I could have been adding to a centralized list of dedicated resources towards improving myself as a designer here, vs. messaging myself links repeatedly on Messenger and only looking back on half of them.\n<br><br>\nThis page is meant to provide anyone with a list of resources that <em>I&apos;ve</em> found to be helpful, ranging from articles to Sketch plugins I use to help improve my workflow. I&apos;m always open to feedback + suggestions, just let me know and I&apos;ll update the list if it&apos;s beneficial.</p>\n"
-    },
-    {
-      "component": "footer",
-      "links": [
-        {
-          "href": "https://github.com/awtran/design-resources",
-          "text": "GitHub"
-        },
-        {
-          "href": "https://github.com/awtran",
-          "text": "awtran"
-        }
-      ],
-      "heading": "How to get in touch"
     }
   ]
 }
